@@ -1,5 +1,5 @@
 # telegram-username-checker
-Simple telegram username checker using fragment.com
+Simple telegram username availability checker using [fragment](https://fragment.com/)
 
 ## Usage
 
